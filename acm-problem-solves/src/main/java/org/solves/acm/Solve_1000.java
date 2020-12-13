@@ -4,9 +4,6 @@ public class Solve_1000 {
     public String add(final String a, final String b){
         return a+b;
     }
-    public int add(final int a, final int b){
-        return a+b;
-    }
     public double add(final double a, final double b){
         return a+b;
     }
